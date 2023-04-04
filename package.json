@@ -1,26 +1,26 @@
 {
-  "name": "rest-api-jsl",
+  "name": "whatsbixby-qr",
   "version": "2.0.0",
-  "description": "make by Jsl free rest api",
+  "description": "made by Ziyan free rest api",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu"
+    "url": "git+https://github.com/DX-MODS/whatsbixby-qr"
   },
   "keywords": [
     "restapi",
     "bot",
     "whatsaap"
   ],
-  "author": "Jsl",
+  "author": "Ziyan",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Afx-Abu/issues"
+    "url": "https://github.com/DX-MODS/whatsbixby-qr/issues"
   },
-  "homepage": "https://github.com/Afx-Abu#readme",
+  "homepage": "",
   "dependencies": {
     "@adiwajshing/baileys": "^5.0.0",
     "@adiwajshing/keyed-db": "^0.2.4",
