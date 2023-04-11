@@ -34,7 +34,7 @@
     "qrcode": "^1.5.0",
     "truecallerjs" : "1.1.2",
     "phone" : "3.1.30",
-    "mongoose": "^6.8.4",
+    "mongoose": "^7.0.3",
     "cors": "^2.8.5",
     "https": "1.0.0",
     "cheerio": "^1.0.0-rc.11",
